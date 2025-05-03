@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Oct 2024 18:12:25 at https://ethemestudio.com/demo/procv/01_ai_expert/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ethemestudio.com/demo/procv/01_ai_expert/index.html -O1 "D:\template\ProCv" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:14:05	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/css/Flaticon.eot (from https://ethemestudio.com/demo/procv/01_ai_expert/css/flaticon.css)
+18:14:05	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/fonts/flaticon/Flaticon.eot? (from https://ethemestudio.com/demo/procv/01_ai_expert/css/flaticon.css)
+18:14:06	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/css/Flaticon.svg (from https://ethemestudio.com/demo/procv/01_ai_expert/css/flaticon.css)
+18:14:06	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/css/images/layers.png (from https://ethemestudio.com/demo/procv/01_ai_expert/css/leaflet.css)
+18:14:06	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/css/images/layers-2x.png (from https://ethemestudio.com/demo/procv/01_ai_expert/css/leaflet.css)
+18:14:06	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/css/images/marker-icon.png (from https://ethemestudio.com/demo/procv/01_ai_expert/css/leaflet.css)
+18:14:06	Error: 	"Not Found" (404) at link https://ethemestudio.com/demo/procv/01_ai_expert/popper.js (from https://ethemestudio.com/demo/procv/01_ai_expert/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 41 seconds : 158 links scanned, 150 files written (22817043 bytes overall) [11104474 bytes received at 109945 bytes/sec], 18264790 bytes transferred using HTTP compression in 62 files, ratio 35%, 26.3 requests per connection
+(7 errors, 0 warnings, 0 messages)
